@@ -1,0 +1,33 @@
+_repo: Mr.-Punch-s-Golf-Stories_38683
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, Sir John Alexander
+    - Hammerton, J. A. (John Alexander)
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2012-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor, Pictorial'
+- !lcc 'PN'
+- !lcsh 'English wit and humor'
+- !lcsh 'Golf -- Humor'
+title: Mr. Punch's Golf Stories
+url: http://www.gutenberg.org/ebooks/38683
